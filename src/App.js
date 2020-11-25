@@ -21,7 +21,7 @@ const Header = styled.div`
 `;
 const Image = styled.img``;
 const Divider = styled.img`
-  margin-top: 85px;
+  margin-top: 55px;
   margin-bottom: 85px;
   margin-right: 60px;
 `;
